@@ -221,3 +221,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Base SQLite locale
+*.db
+*.sqlite
+*.sqlite3
+
+# Éditeurs / systèmes (annexe B de la charte)
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node (gitmoji-cli)
+node_modules/
